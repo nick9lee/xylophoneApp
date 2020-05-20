@@ -1,3 +1,3 @@
 # xylophoneApp
 xylophone ios app
-created for learning purposes
+created for learning swift
